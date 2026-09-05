@@ -115,6 +115,20 @@ deliberately asymmetric.
 Five representative operating days are evaluated: extreme summer, extreme
 winter, typical summer, typical winter and shoulder season.
 
+### 3.1 Aggregate scenario conditions
+
+| Quantity | Extreme summer | Extreme winter | Typical summer | Typical winter | Shoulder |
+|---|---:|---:|---:|---:|---:|
+| Peak demand (kW) | 700.2 | 362.0 | 275.8 | 259.4 | 208.5 |
+| Peak hour | 17 | 19 | 21 | 20 | 21 |
+| Daily demand (kWh) | 8955 | 5751 | 4439 | 3923 | 3042 |
+| Customer peak, minimum (kW) | 3.14 | 3.68 | 2.51 | 3.00 | 2.09 |
+| Customer peak, maximum (kW) | 14.88 | 22.90 | 8.62 | 5.67 | 3.69 |
+| PV peak (kW) | 462.9 | 121.0 | 418.5 | 219.7 | 321.8 |
+| Daily PV energy (kWh) | 4524 | 431 | 3587 | 1017 | 2182 |
+| Customer PV peak, maximum (kW) | 6.98 | 1.93 | 6.38 | 3.46 | 4.96 |
+| PV-to-demand ratio | 0.51 | 0.07 | 0.81 | 0.26 | 0.72 |
+
 ---
 
 ## 4. Test feeder
